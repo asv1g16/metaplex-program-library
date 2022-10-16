@@ -2,7 +2,7 @@
     "name": "@metaplex-foundation/metaplex-program-library",
     "version": "0.1.0",
     "description": "Web interface to Smart Contracts by the Metaplex team.",
-    "repository": "git@github.com:metaplex-foundation/metaplex-program-library.git",
+    "repository": "git@github.com:asv1g16/metaplex-program-library.git",
     "author": "Metaplex Maintainers <contact@metaplex.com>",
     "license": "MIT",
     "private": true,
